@@ -1,4 +1,4 @@
 # Potential Umbrella
 an umbrella that has potential
 
-random tools go here lol
+random projects i don't particularly care about go here
